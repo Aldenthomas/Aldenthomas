@@ -1,1 +1,18 @@
-### Hi, I'm Alden, an IT Professional
+<h1>Hi, I'm Alden Thomas, an <a href="https://linkedin.com/in/alden-thomas">IT Technician</a>☺</h1>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/jamesjgrizz/osticket-prereqs)
+  
+- <b>Microsoft Azure</b>
+  - [Configuring A Virtual Machine](https://github.com/jamesjgrizz/configure-VM)
+  - [Setting Up Active Directory](https://github.com/jamesjgrizz/Active-Directory)
+ 
+
+
+
+
+[<img align="left" alt="James | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/James
